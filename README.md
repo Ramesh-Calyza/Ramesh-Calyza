@@ -28,6 +28,6 @@
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com)  
-- 📧 ramesh@company.com  
-- 🖥️ [GitHub](https://github.com)  
+- 📧 i do not want to add
+- 🖥️ [[GitHub](https://github.com) ](https://github.com/alwaysramesh) 
 

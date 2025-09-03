@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ramesh Kumar Prajapati!  
+# 👋 Hi there, I'm Ramesh Prajapati!  
 **Employee at Calyza Tech | Data Scientist | AI & ML Enthusiast | Generative AI | Cloud (Azure & AWS)**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ramesh&color=blue&style=flat-square)  
